@@ -1,2 +1,2 @@
-# my-first-repo-spr24
-This is my first GitHub Repo
+# my-first-repo-spr24-R
+This is my first GitHub my first Repo
